@@ -2,6 +2,8 @@ import {
   Home
 }from './pages/index'
 
+import './assets/styles/main.scss'
+
 import Sidebar from './containers/Sidebar/Sidebar';
 
 import {
